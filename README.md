@@ -20,10 +20,10 @@ Here is what you will get with this course:
 
 5. In-course support – We’re fully committed to making this the most accessible and results-driven AI course on the planet. This requires us to be there when you need our help. That’s why we’ve put together a team of professional Data Scientists to support you in your journey, meaning you’ll get a response from us within 48 hours maximum.
 
-What are the requirements?
-
+## What are the requirements?
 Only High School Maths
-What am I going to get from this course?
+
+## What am I going to get from this course?
 
 Build an AI
 Understand the theory behind Artificial Intelligence
