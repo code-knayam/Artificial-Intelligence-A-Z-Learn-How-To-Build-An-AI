@@ -25,13 +25,13 @@ Only High School Maths
 
 ## What am I going to get from this course?
 
-Build an AI
-Understand the theory behind Artificial Intelligence
-Make a virtual Self Driving Car
-Make an AI to beat games
-Solve Real World Problems with AI
-Master the State of the Art AI models
-Q-Learning
-Deep Q-Learning
-Deep Convolutional Q-Learning
-A3C
+1. Build an AI 
+2. Understand the theory behind Artificial Intelligence
+3. Make a virtual Self Driving Car
+4. Make an AI to beat games
+5. Solve Real World Problems with AI
+6. Master the State of the Art AI models
+7. Q-Learning
+8. Deep Q-Learning
+9. Deep Convolutional Q-Learning
+10. A3C
