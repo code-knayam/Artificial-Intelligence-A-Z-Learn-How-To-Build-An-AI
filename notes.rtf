@@ -106,8 +106,10 @@ V(S\'92) = 0.8*V(s1) + 0.1*V(s2)+ 0.1*V(s3)\
 \
 
 \b0 So final equation comes out to be - \
-V(S) = max( R(s,a) + Y E( P(s,a,s\'92)V(s\'92) )   )\
-\
+
+\b V(S) = max( R(s,a) + Y E( P(s,a,s\'92)V(s\'92) )   )\
+
+\b0 \
 E -> Sigma\
 P - probability of that state happening (0.8, 0.1, 0.1 from above)\
 \
@@ -120,10 +122,20 @@ P - probability of that state happening (0.8, 0.1, 0.1 from above)\
 \pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardeftab720\pardirnatural\partightenfactor0
 
 \f0\fs30 \cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 \
-http://www.cs.uml.edu/ecg/uploads/AIfall14/MDPApplications3.pdf\
+http://www.cs.uml.edu/ecg/uploads/AIfall14/MDPApplications3.pd\
 \
-\
+
+\b Policy VS Plan - \
+
+\b0 The previous plan couldn\'92t work since it was following a deterministic approach. But with new randomness and Markov process, that plan is no more applicable. Also the values of state determined can\'92t be used. For determining the new values, the modified Belman Equation needs to be used framed above.\
+That becomes the policy which the agent would follow in order to get to the final state.\
+
+\b \
 \pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardeftab720\pardirnatural\partightenfactor0
+
+\b0 \cf0 \
+\
+\
 
 \b\fs48 \cf2 \expnd0\expndtw0\kerning0
 \
