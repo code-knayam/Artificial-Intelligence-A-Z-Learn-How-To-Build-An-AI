@@ -1,0 +1,19 @@
+Useful Links for installation of softwares - 
+
+Get the anaconda workspace to work on ->
+https://www.anaconda.com/download/#macos
+
+PyTorch ->
+http://pytorch.org/
+
+From there based on the system config, copy and paste the command on to the terminal
+
+Kivy ->
+https://kivy.org/docs/installation/installation-osx.html
+
+From here choose the OS, 
+and follow the command line code to install Kivy
+
+
+When running into gcc error - 
+https://www.udemy.com/artificial-intelligence-az/learn/v4/questions/3270278
